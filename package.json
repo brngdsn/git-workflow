@@ -1,0 +1,8 @@
+{
+  "name": "git-workflow",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pi-chi/git-workflow",
+  "author": "bgoodson@amica.com",
+  "license": "MIT"
+}
